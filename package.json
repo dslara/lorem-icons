@@ -1,0 +1,20 @@
+{
+  "name": "lorem-icons",
+  "version": "0.0.1",
+  "description": "",
+  "homepage": "https://github.com/dslara/lorem-icons#readme",
+  "bugs": {
+    "url": "https://github.com/dslara/lorem-icons/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dslara/lorem-icons.git"
+  },
+  "license": "ISC",
+  "author": "Daniel Salvador",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
